@@ -1,0 +1,26 @@
+{
+  "name": "tutorialbacknode",
+  "version": "1.0.0",
+  "description": "api in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r1gabriela/tutorialsbacknode.git"
+  },
+  "author": "gabriela andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r1gabriela/tutorialsbacknode/issues"
+  },
+  "homepage": "https://github.com/r1gabriela/tutorialsbacknode#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.3.5"
+  }
+}
